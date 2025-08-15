@@ -37,7 +37,7 @@ export function EmailSignupForm() {
           window.location.href = data.authUrl;
         }
       } catch (err) {
-        setEmailError("Something went wrong. Please try again.");
+        setEmailError("Sign-ups are currently disabled. Sort will be available soon!");
       } finally {
         setIsSubmitting(false);
       }
