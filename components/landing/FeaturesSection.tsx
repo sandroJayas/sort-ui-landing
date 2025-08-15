@@ -8,7 +8,7 @@ const features = [
     title: "BOXES DELIVERED",
     description:
       "Need containers? We'll deliver sturdy boxes right to your door—even to your 5th floor walk-up.",
-    image: "/images/feature-1.webp",
+    image: "https://placehold.co/600x400/png",
     align: "left",
   },
   {
@@ -16,7 +16,7 @@ const features = [
     title: "PACK YOUR WAY",
     description:
       "Winter gear, memorabilia, furniture—pack what you want, when you want.",
-    image: "/images/feature-2.webp",
+    image: "https://placehold.co/600x400/png",
     align: "right",
   },
   {
@@ -24,7 +24,7 @@ const features = [
     title: "FLEXIBLE PICKUP",
     description:
       "Drop it off yourself or we'll pick it up. You choose what works for you.",
-    image: "/images/feature-3.webp",
+    image: "https://placehold.co/600x400/png",
     align: "left",
   },
   {
@@ -32,7 +32,7 @@ const features = [
     title: "INSTANT RETRIEVAL",
     description:
       "Need something back? Schedule a return and we'll deliver it to your door. Always free.",
-    image: "/images/feature-4.webp",
+    image: "https://placehold.co/600x400/png",
     align: "right",
   },
 ];

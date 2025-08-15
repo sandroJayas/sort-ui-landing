@@ -10,7 +10,7 @@ export function HeroSection() {
         <div className="relative w-full h-full">
           <div className="absolute inset-0 bg-[#F8B24E] opacity-10 mix-blend-multiply" />
           <Image
-            src="/images/hero-nyc.webp"
+            src="https://placehold.co/600x400/png"
             alt="NYC skyline"
             fill
             priority

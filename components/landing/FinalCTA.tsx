@@ -7,7 +7,7 @@ export function FinalCTA() {
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-[#0F1A7D] opacity-10" />
         <Image
-          src="/images/nyc-night.webp"
+          src="https://placehold.co/600x400/png"
           alt="NYC Night"
           fill
           quality={50}

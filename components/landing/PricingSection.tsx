@@ -55,7 +55,7 @@ export function PricingSection() {
           <div className="relative h-[600px] md:h-auto">
             <div className="absolute inset-0 bg-[#1724B6] z-0" />
             <Image
-              src="/images/storage-box.webp"
+              src="https://placehold.co/600x400/png"
               alt="Storage"
               fill
               className="object-cover mix-blend-luminosity opacity-60"
